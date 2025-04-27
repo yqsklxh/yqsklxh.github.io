@@ -4,10 +4,32 @@
         <title>李帅哥的网站 Blog</title>
         <link>https://yqsklxh.github.io/blog</link>
         <description>李帅哥的网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[高兴诗]]></title>
+            <link>https://yqsklxh.github.io/blog/happy</link>
+            <guid>https://yqsklxh.github.io/blog/happy</guid>
+            <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气好，可以出去锻炼一下身体。]]></description>
+            <content:encoded><![CDATA[<p>今天天气好，可以出去锻炼一下身体。</p>]]></content:encoded>
+            <category>Hola</category>
+            <category>Docusaurus</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome Are You]]></title>
+            <link>https://yqsklxh.github.io/blog/first-blog-post</link>
+            <guid>https://yqsklxh.github.io/blog/first-blog-post</guid>
+            <pubDate>Sat, 26 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>ljkljlklkj</p>]]></content:encoded>
+            <category>Hola</category>
+            <category>Docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://yqsklxh.github.io/blog/welcome</link>
@@ -79,7 +101,8 @@
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>ljkljlklkj</p>]]></content:encoded>
             <category>Hola</category>
             <category>Docusaurus</category>
         </item>

@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yqsklxh.github.io/blog</id>
     <title>李帅哥的网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2025-04-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yqsklxh.github.io/blog"/>
     <subtitle>李帅哥的网站 Blog</subtitle>
     <icon>https://yqsklxh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴诗]]></title>
+        <id>https://yqsklxh.github.io/blog/happy</id>
+        <link href="https://yqsklxh.github.io/blog/happy"/>
+        <updated>2025-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气好，可以出去锻炼一下身体。]]></summary>
+        <content type="html"><![CDATA[<p>今天天气好，可以出去锻炼一下身体。</p>]]></content>
+        <author>
+            <name>李帅帅</name>
+            <uri>https://github.com</uri>
+        </author>
+        <category label="Hola" term="Hola"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome Are You]]></title>
+        <id>https://yqsklxh.github.io/blog/first-blog-post</id>
+        <link href="https://yqsklxh.github.io/blog/first-blog-post"/>
+        <updated>2025-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>ljkljlklkj</p>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+        <category label="Hola" term="Hola"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://yqsklxh.github.io/blog/welcome</id>
@@ -94,7 +128,8 @@
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>ljkljlklkj</p>]]></content>
         <author>
             <name>Sébastien Lorber</name>
             <uri>https://sebastienlorber.com</uri>
